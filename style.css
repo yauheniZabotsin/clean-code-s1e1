@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.box {
+.box-wrap {
   display: flex;
 }
 ul {

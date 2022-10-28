@@ -21,9 +21,11 @@
 }
 
 @media (max-width: 768px) {
+
   .methodology-description {
     text-align: center;
   }
+
 }
 
 .todo-container {

@@ -108,7 +108,7 @@ button {
 }
 
 .todo-maker__input-box {
-  width: 360px;
+  width: 100%;
 }
 
 /* Task list */

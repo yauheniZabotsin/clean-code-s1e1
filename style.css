@@ -21,11 +21,9 @@
 }
 
 @media (max-width: 768px) {
-
   .methodology-description {
     text-align: center;
   }
-
 }
 
 .todo-container {
@@ -159,13 +157,13 @@ button {
 }
 
 /* Edit Task */
-.item-task .item-task__input-task {
+.item-task .input-box {
   display: none;
 }
 
-.item-task_edit-mode .item-task__input-task {
+.item-task_edit-mode .input-box {
   display: inline-block;
-  width: 224px;
+  width: 330px;
 }
 
 .item-task_edit-mode .item-task__name {
